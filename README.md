@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zach-highley
 - 👀 I’m interested in learning how to code and build stuff.
-- 🌱 I’m currently learning Bricks and Java
+- 🌱 I’m learning HTML, CSS, Java, PHP, and Bricks to make WordPress sites.
 - 📫 How to reach me: zach@zhighley.com
 - ⚡ Fun fact: I'm a YouTuber (https://www.youtube.com/zachhighley)
 
